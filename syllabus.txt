@@ -1,0 +1,5 @@
+fizik fizik biyoloji biyoloji osmanlica cografya kuran kuran 8.30 9.20 10.10 11.00 11.50 13.30 14.30 15.20
+tarih tarih turkce matematik matematik hadis siyer cografya 8.30 9.20 10.10 11.00 11.50 13.30 14.30 15.20
+hadis felsefe felsefe arap arap kuran matematik matematik 8.30 9.20 10.10 11.00 11.50 13.30 14.30 15.20
+turkce turkce ingilizce1 beden kimya kimya fikih siyer 8.30 9.20 10.10 11.00 11.50 13.30 14.30 15.20
+turkce turkce matematik matematik kuran fikih ingilizce2 ingilizce2 8.30 9.20 10.10 11.00 11.50 12.40 14.30 15.20
